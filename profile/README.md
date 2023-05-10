@@ -10,3 +10,5 @@ Privacy Dynamics provides tools to unlock sensitive data. Simply plug Privacy Dy
 * [Using Anonymized Data for Survival Analysis](https://www.privacydynamics.io/post/using-anonymized-data-for-survival-analysis-in-python/)
 * [Anonyized Data for Development and Testing Environments](https://www.privacydynamics.io/post/anonymized-data-for-development-and-testing-environments/)
 * [Using Data Minimization in Analytics with dbt and Privacy Dynamics](https://www.privacydynamics.io/post/data-minimization-in-analytics-using-dbt-and-privacy-dynamics/)
+
+[View all articles →](https://www.privacydynamics.io/blog)
