@@ -3,7 +3,7 @@ Privacy Dynamics provides tools to unlock sensitive data. Simply plug Privacy Dy
 
 ### Getting started
 * 📓Check out the [Getting Started Guide](https://www.privacydynamics.io/docs).
-* 📂Clone and test out our sample repositories.
+* 📂Clone and test out our sample repository, [anonymize-demo](https://github.com/pvcy/anonymize-demo).
 * 💻 [Call our API](https://www.privacydynamics.io/docs/api/getting-started) from your own code.
 
 ### Recent articles
