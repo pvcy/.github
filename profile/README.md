@@ -1,5 +1,5 @@
-# Data privacy tools for responsible, high velocity engineering teams
-Privacy Dynamics provides tools to unlock sensitive data. Simply plug Privacy Dynamics into your engineering workflow or analytics stack and take the risk out of your health, financial, consumer, and retail data.
+# Data anonymization as a service.
+Privacy Dynamics is the fastest, easiest, and most reliable way to create and maintain anonymized copies of production data environments that are suitable for your dev+test, analytics, and preview needs.
 
 ### Getting started
 * 📓Check out the [Getting Started Guide](https://www.privacydynamics.io/docs).
